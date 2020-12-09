@@ -4,7 +4,8 @@ Train a model with an audio file from the speaker and the detect the speaker in 
 ___
 ## Overview
 
-
+![makingTrainingData](https://user-images.githubusercontent.com/60202851/101612904-82211b80-3a4e-11eb-9e0a-e835cbd60dfa.JPG)
+![TrainingModelResults](https://user-images.githubusercontent.com/60202851/101612909-83eadf00-3a4e-11eb-8f43-b5fb1652ea51.jpg)
 
 
 ___
