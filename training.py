@@ -5,7 +5,7 @@ from sklearn.model_selection import train_test_split
 import tensorflow.keras as keras
 import matplotlib.pyplot as plt
 
-# path to json file that stores MFCCs and genre labels for each processed segment
+# path to json file that stores MFCCs and labels for each processed segment
 DATA_PATH = "data_10.json"
 
 def load_data(data_path):
